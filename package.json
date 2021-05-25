@@ -1,0 +1,11 @@
+{
+  "name": "ctx-websocket-example",
+  "version": "1.0.0",
+  "description": "Example on how to connect to CTX websocket for payment events",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "ws": "^7.4.6"
+  }
+}
